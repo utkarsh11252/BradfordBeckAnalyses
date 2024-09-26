@@ -1,0 +1,28 @@
+﻿Flow site,Land cover,Area (sq. km),Percentage
+F0010 and F0101,Water,0.5719,0.357
+,Trees,8.6762,5.416
+,Flooded Vegetation,0.0275,0.017
+,Crops,41.2787,25.769
+,Built Area,86.9317,54.268
+,Bare ground,0.0067,0.004
+,Rangelands,22.6961,14.168
+,,,
+F0012,Trees,0.0106,0.234
+,Built Area,4.4564,98.211
+,Rangelands,0.0706,1.556
+,,,
+F0014,Water,0.058,0.943
+,Trees,0.0822,1.337
+,Crops,0.0013,0.021
+,Built Area,5.294,86.098
+,Rangelands,0.7133,11.601
+,,,
+F0016,Trees ,0.0493,0.396
+,Built Area,11.765,94.487
+,Rangelands,0.6372,5.117
+,,,
+F0022,Water,0.0017,0.018
+,Trees,0.0378,0.398
+,Built Area,8.7237,91.93
+,Bare ground,0.0001,0.001
+,Rangelands,0.7262,7.653

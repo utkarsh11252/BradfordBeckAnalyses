@@ -1,0 +1,16 @@
+-205206.3,7129935.3, High Birks Beck
+-204038.6,7129966.2, Hole Bottom Beck
+-204135.3,7129996.6, Pinch Beck
+-201373.7,7130957.7, Pitty Beck
+-201404.2,7130890.1, Clayton Beck
+-200261.88,7131224.48, Bull Greave Beck
+-199660.96,7131379.10, Middle Brook
+-199623.04,7131441.85, Chellow Dene Beck
+-197022.5,7130448.6, Horton Beck
+-196988.60,7130427.95, Westbrook
+-195032.16,7131071.89, Bowling Beck
+-194649.7,7131254.6, Eastbrook
+-196664.8,7136090.1, Trap Syke
+-198184.5,7136785.8, Northcliffe Dike
+-197343.96,7137263.23, Red Beck
+-197200.92,7139563.88, Bradford Beck
